@@ -7,8 +7,14 @@ const App = () => {
   return (
     <div>
       <Navbar />
-      <Hero />
-      <Gallery />
+      <main>
+        <div id="hero">
+          <Hero />
+        </div>
+        <div id="gallery">
+          <Gallery />
+        </div>
+      </main>
     </div>
   );
 };
