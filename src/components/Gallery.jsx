@@ -16,13 +16,25 @@ const Gallery = () => {
 
       <div className="flex flex-col items-center md:flex-row md:justify-between gap-5">
         <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
-          <img src={gallery1} alt="gallery1" className="w-full h-auto" />
+          <img
+            src={gallery1}
+            alt="gallery1"
+            className="w-full h-auto rounded-lg"
+          />
         </div>
         <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
-          <img src={gallery2} alt="gallery2" className="w-full h-auto" />
+          <img
+            src={gallery2}
+            alt="gallery2"
+            className="w-full h-auto rounded-lg"
+          />
         </div>
         <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/4">
-          <img src={gallery3} alt="gallery3" className="w-full h-auto" />
+          <img
+            src={gallery3}
+            alt="gallery3"
+            className="w-full h-auto rounded-lg"
+          />
         </div>
       </div>
     </div>

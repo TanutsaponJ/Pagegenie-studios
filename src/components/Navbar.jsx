@@ -9,14 +9,14 @@ import Button from "../layout/Button";
 const Navbar = () => {
   return (
     <div className="flex flex-row justify-between items-center md:px-32 px-5 py-4 mx-2">
-      <div className="flex flex-row gap-12 items-center text-lightText py-2">
+      <div className="mx-auto flex flex-row gap-20 items-center text-lightText py-2">
         <div>
           <img src={Logo} alt="Company logo" className="cursor-pointer" />
         </div>
 
-        <nav className="hidden md:flex gap-5">
+        <nav className="hidden md:flex gap-5 w-full mx-auto">
           <Link
-            className="hover:text-brightRed transition-all ease-in-out"
+            className="hover:text-brightRed transition-all ease-in-out cursor-pointer"
             to="/work"
           >
             How it work
