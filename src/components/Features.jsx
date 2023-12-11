@@ -68,7 +68,7 @@ const Features = () => {
           </div>
         </div>
       </div>
-      <div className=" mt-10 flex flex-row justify-center">
+      <div className=" mt-20 flex flex-row justify-center">
         <Button title="Free Consultation" />
       </div>
     </div>
