@@ -1,70 +1,89 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Pagegenie-studios Modern UI/UX Architecture website using React.js & Tailwind CSS
 
-## Available Scripts
+![complete1](https://github.com/TanutsaponJ/Pagegenie-studios/assets/114305352/a64adce6-1c4a-4247-b7fc-6b3964b248b1)
 
-In the project directory, you can run:
+##  Description 
 
-### `npm start`
+Project Description: Travel Website Design & Development
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Explore the fusion of creativity and functionality at our innovative architecture website, crafted with precision using React.js and Tailwind CSS.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Demo 
 
-### `npm run build`
+###  🚀 [https://splendid-arithmetic-c1cbb6.netlify.app/](https://keen-stardust-d27449.netlify.app/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanutsapon/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TJinaongkan)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Tech Stack
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Client:** React, TailwindCSS
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Design:** Figma
 
-## Learn More
+## Color Reference
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| brightRed Color | ![#FD665E](https://via.placeholder.com/10/FD665E?text=+) FD665E |
+| lightText Color | ![#E9E9E9](https://via.placeholder.com/10/E9E9E9?text=+) E9E9E9 |
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Installation
 
-### Analyzing the Bundle Size
+Installing Example Project Built with React.js and Tailwind CSS
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This example project is designed to showcase the integration of React.js and Tailwind CSS. To install and run the project locally, follow these steps:
 
-### Making a Progressive Web App
+## Prerequisites
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+ 📙 Node.js and npm (Node Package Manager) should be installed on your machine.
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### 1. Clone or Download the Repository: 
 
-### Deployment
+Open your terminal or command prompt.
+Use the git clone command to clone the project repository:
+```bash
+  git clone https://github.com/TanutsaponJ/Travel_Goo.git
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### 2. Navigate to the Project Directory:
+Use the cd command to move into the project directory:
+```bash
+  cd project-directory-name
+```
 
-### `npm run build` fails to minify
+### 3. Run the following command to install project dependencies using npm:
+Run the following command to install project dependencies using npm:
+```bash
+  npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 4.Start the Development Server
+After the dependencies are installed, start the development server:
+```sql
+  npm start
+```
+
+### 5.View the Project:
+Once the development server is running, open your web browser and visit:
+```arduino
+  http://localhost:3000
+```
+
+# 📙 Additional Notes:
+✅ The project should now be running locally on your machine. Any changes made to the project files will be automatically reflected in the browser.
+
+✅ Tailwind CSS utility classes are used extensively in this project. Explore the project's source code to see how Tailwind classes are applied.
+
