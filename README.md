@@ -5,7 +5,7 @@
 
 ##  Description 
 
-Project Description: Travel Website Design & Development
+Project Description: Pagegenie-studios Design & Development
 
 Explore the fusion of creativity and functionality at our innovative architecture website, crafted with precision using React.js and Tailwind CSS.
 
